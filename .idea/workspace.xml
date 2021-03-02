@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c5abb0f-8465-43ec-991c-e5a99e861f65" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/FibonacciRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/softserveinc/com/SandBox/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/softserveinc/com/SandBox/HelloWorld.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p7xKDGCFw2aGgeJZ2gwSqDFuI8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.FibonacciRow">
+    <configuration name="ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.ElementaryTasks.ChessBoard" />
+      <module name="softserve-qa-automation-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softserveinc.com.ElementaryTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.SandBox.Console" />
+      <module name="softserve-qa-automation-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softserveinc.com.SandBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.ElementaryTasks.FibonacciRow" />
+      <module name="softserve-qa-automation-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softserveinc.com.ElementaryTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.SandBox.HelloWorld" />
+      <module name="softserve-qa-automation-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softserveinc.com.SandBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.ElementaryTasks.Palindrome" />
+      <module name="softserve-qa-automation-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softserveinc.com.ElementaryTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FibonacciRow" />
+        <item itemvalue="Application.ChessBoard" />
+        <item itemvalue="Application.Console" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c5abb0f-8465-43ec-991c-e5a99e861f65" name="Default Changelist" comment="" />
+      <created>1614547867456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614547867456</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1614548754821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614548754821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1614548463839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614548463839" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1614642372178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1614642372177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372177" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1614642372177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372177" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1614642372178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1614642372178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1614642372178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1614642372178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1614642372178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
+    <state x="427" y="177" key="SettingsEditor" timestamp="1614548597848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="427" y="177" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614548597848" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614548861258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614548861258" />
+  </component>
+</project>
