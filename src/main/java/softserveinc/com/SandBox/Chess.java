@@ -1,8 +1,8 @@
-package softserveinc.com.ElementaryTasks;
+package softserveinc.com.SandBox;
 
 import java.util.Scanner;
 
-public class ChessBoard {
+public class Chess {
 
     public static void main(String[] args) {
 
