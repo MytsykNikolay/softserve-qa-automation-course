@@ -22,19 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5abb0f-8465-43ec-991c-e5a99e861f65" name="Default Changelist" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_01/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ChessBoard/TestChessBoard.java" afterDir="false" />
+    <list default="true" id="7c5abb0f-8465-43ec-991c-e5a99e861f65" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_02/Envelope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_02/RunApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_03/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_03/StartApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_03/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/SandBox/Chess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/FibonacciRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/SandBox/FibonacciRow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/SandBox/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/softserveinc/com/ElementaryTasks/ChessBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/softserveinc/com/ElementaryTasks/FibonacciRow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/softserveinc/com/ElementaryTasks/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/softserveinc/com/SandBox/FibonacciRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_08/FibonacciRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/softserveinc/com/SandBox/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softserveinc/com/ElementaryTasks/task_09/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +70,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.StartApp">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="softserveinc.com.ElementaryTasks.task_01.App" />
       <module name="softserve-qa-automation-course" />
@@ -101,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="FibonacciRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="softserveinc.com.SandBox.FibonacciRow" />
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.ElementaryTasks.task_08.FibonacciRow" />
       <module name="softserve-qa-automation-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="softserveinc.com.SandBox.*" />
+          <option name="PATTERN" value="softserveinc.com.ElementaryTasks.task_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="softserveinc.com.SandBox.Palindrome" />
+    <configuration name="RunApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.ElementaryTasks.task_02.RunApp" />
       <module name="softserve-qa-automation-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="softserveinc.com.SandBox.*" />
+          <option name="PATTERN" value="softserveinc.com.ElementaryTasks.task_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,28 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestChessBoard$TestChessBoardPaint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StartApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softserveinc.com.ElementaryTasks.task_03.StartApp" />
       <module name="softserve-qa-automation-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChessBoard.*" />
+          <option name="PATTERN" value="softserveinc.com.ElementaryTasks.task_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ChessBoard" />
-      <option name="MAIN_CLASS_NAME" value="ChessBoard.TestChessBoard$TestChessBoardPaint" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.TestChessBoard$TestChessBoardPaint" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.StartApp" />
+        <item itemvalue="Application.RunApp" />
         <item itemvalue="Application.FibonacciRow" />
-        <item itemvalue="Application.ChessBoard" />
+        <item itemvalue="Application.Chess" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614701252327</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1616414741249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616414741249</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,59 +192,75 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1616416397207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616416397207" />
     <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1614548463839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614548463839" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1616412563410">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616412563410" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1616412563410">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616412563410" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372177" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1616412563410">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616412563410" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372177" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1616412563410">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616412563410" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1614642372178">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1616451718341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1614642372178">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616415077685" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1616451718341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1614642372178">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616415077685" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1616451718341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1614642372178">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616415077685" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1616451718341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614642372178" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616415077685" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1616451718341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1616451718341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1616451718341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1616451718341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616451718341" />
     <state x="124" y="0" key="SettingsEditor" timestamp="1614971273238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="124" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614971273238" />
     <state x="427" y="177" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614548597848" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614701255445">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1616414751217">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1616414751217" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614701255445" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1616421676728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614701255445" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1616421676728" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.Scanner" memberName="matcher" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package softserveinc.com.SandBox;
+package softserveinc.com.ElementaryTasks.task_09;
 
 import java.util.Scanner;
 
